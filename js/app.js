@@ -1,6 +1,6 @@
 
 var y = [60, 145, 230];
-var enemySpeed = 1000;
+var enemySpeed = 200;
 
 var spriteBox = 30;
 // Enemies our player must avoid
