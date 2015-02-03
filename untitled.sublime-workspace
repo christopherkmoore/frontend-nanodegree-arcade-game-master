@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"infoWindo",
+				"infoWindow"
+			],
+			[
+				"formattedOnline",
+				"formattedOnlineURL"
+			],
+			[
+				"education",
+				"education-entry"
+			],
+			[
+				"formattedSchool",
+				"formattedSchoolLocation"
+			],
+			[
+				"formattedSchol",
+				"formattedSchoolNameTitle"
+			],
+			[
+				"for",
+				"formattedProjectImage"
+			],
+			[
+				"project",
+				"project-entry"
+			],
+			[
+				"formattedProje",
+				"formattedProjectDescription"
+			],
+			[
+				"projec",
+				"project-entry"
+			],
+			[
+				"formattedPor",
+				"formattedProjectDates"
+			],
+			[
+				"formattedPro",
+				"formattedProjectTitle"
+			],
+			[
+				"formatted",
+				"formattedBioPic"
+			],
+			[
+				"formattedHeader",
+				"formattedHeaderName"
+			],
+			[
+				"format",
+				"formattedHeaderRole"
+			],
+			[
+				"display",
+				"displayWork"
+			],
+			[
+				"forma",
+				"formattedDescription"
+			],
+			[
+				"work",
+				"work-entry"
+			],
+			[
+				"formatt",
+				"formattedTitle"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 1360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/engine.js",
+			"settings":
+			{
+				"buffer_size": 7425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/resources.js",
+			"settings":
+			{
+				"buffer_size": 3888,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/modelf/Udacity/frontend-nanodegree-resume/index.html",
+		"/Users/modelf/Udacity/frontend-resume-P2/js/resumeBuilder.js",
+		"/Users/modelf/Udacity/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/Users/modelf/Udacity/frontend-nanodegree-resume/js/helper.js",
+		"/Users/modelf/Udacity/canvas_practice.html",
+		"/Users/modelf/Udacity/jQuery/script.js",
+		"/Users/modelf/Udacity/jQuery/stylesheet.css",
+		"/Users/modelf/Udacity/jQuery/index.html",
+		"/Users/modelf/Udacity/index.html",
+		"/Users/modelf/Udacity/run.js",
+		"/Users/modelf/Udacity/library.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    \n",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/engine.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2032.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "js/resources.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3772,
+								3781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 64.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

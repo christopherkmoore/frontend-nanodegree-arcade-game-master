@@ -1,3 +1,20 @@
 body {
     text-align: center;
 }
+
+#banner {
+	align: center;
+	height: 40px;
+	width: 800px;
+	margin-left: 260px;
+}
+
+#right {
+	width: 500px;
+	float: right;
+}
+
+#left {
+	width: 500px;
+}
+
